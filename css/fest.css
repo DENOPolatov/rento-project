@@ -1,0 +1,54 @@
+.fest {
+    padding-left: 260px;
+}
+.fast {
+    padding-left: 50px;
+}
+.fost {
+    padding-left: 50px;
+}
+.fust {
+    padding-left: 50%;
+}
+.fist {
+    padding: 70px;
+    width: 50px;
+}
+.fyst a{
+    font-size: 2.2rem;
+    text-transform: uppercase;
+}
+.fast a{
+    color: #000 !important;
+    font-size: 13px;
+}
+.fust a{
+    color: #000 !important;
+    font-size: 13px;
+}
+.fest a{
+    color: #69c6ba !important;
+    font-size: 13px;
+}
+.fist a {
+    color: #000 !important;
+    font-size: 13px;
+}
+.vesta {
+    background-image: url(../images/banner\ \(1\).jpg);
+}
+.meco p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 70px;
+    color: rgb(0, 0, 0);
+    padding-top: 150px;
+}
+.mexo img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-left: 50%;
+    font-size: 20px;
+}

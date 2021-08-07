@@ -1,0 +1,512 @@
+.ceka button {
+    border-radius: 10px black !important;
+}
+.project a{
+    color: black !important;
+}
+.right {
+    text-transform: uppercase
+}
+.left {
+    text-transform: uppercase;
+}
+.ded {
+    text-transform: uppercase;
+}
+.text {
+    width: 60%;
+}
+.text a{
+    font-size: 30px;
+    margin-left: 90px;
+}
+.dedas{
+    background-color: #f6d601;
+    display: inline-block;
+    padding: 7px 35px;
+    border-radius: 30px;
+    color: #000;
+    font-size: 17px;
+    line-height: 1.80857;
+}
+.fast {
+    background: url(../images/banner.jpg);
+    background-repeat: no-repeat;
+    min-height: 700px;
+    width: 100%;
+}
+.lora p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 130px;
+}
+.sacond .first p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    font-size: 45px;
+    font-weight: bold;
+}
+.thit p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 17px;
+}
+.qwerty li{
+    list-style: none;
+
+}
+.qwerty li img {
+    transition: 1s ease;
+}
+.qwerty li img:hover {
+    transform: scale(1.1);
+}
+.qwerty ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.qwerty p{
+    color: #0c0c0e;
+    background-color: #f6d601;
+    font-size: 30px;
+    line-height: 28px;
+    height: 84px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-top: 30px;
+    padding: 0;
+}
+img {
+    width: 100%;
+}
+.vera {
+    background: url(../images/bg.jpg);
+    margin-top: 90px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding: 100px 0;
+    height: 800px;
+}
+.cakun {
+    border: 1px solid black;
+}
+.der {
+    font-size: 30px;
+    border: 1px gray;
+}
+.der {
+    background: #fff;
+    margin-bottom: 25px;
+    width: 100%;
+}
+::placeholder{
+    font-size: 17px;
+    color: #4d4d4f;
+}
+.fasol {
+    background: #fff;
+    margin-bottom: 25px;
+}
+select option{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.der select {
+    width: 30%;
+    height: 60px;
+    color: rgb(184, 180, 180);
+}
+input {
+    width: 30%;
+    height: 60px;
+    padding-left: 20px;
+}
+.lor select option{
+    padding-top: 50px;
+}
+.lora p {
+    color: #fff;
+    font-size: 67px;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+p {
+    font-size: 24px;
+    font-family: 'Righteous', cursive;
+}
+.gang {
+    color: white;
+    font-family: 'Righteous', cursive;
+    font-size: 40px;
+    line-height: 50px;
+    color: #fff;
+    padding-bottom: 20px;
+    display: block;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ces p {
+    font-family: 'Righteous', cursive;
+    color: #f6d601;
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: bold;
+    padding-bottom: 20px;
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.pes p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 17px;
+}
+ select {
+padding-left: 20px;
+}
+
+.skorp p {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding-top: 90px;
+    font-size: 40px;
+}
+.sepo p{
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 26px;
+}
+.lpo {
+    text-align: center;
+}
+.lpo p {
+    color: #fff;
+    background-color: #23262d;
+    border-radius: 60px;
+    border: #f6d601 solid 5px;
+    padding: 20px 27px;
+    display: inline-block;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.mop p{
+    text-align: center;
+    font-size: 16px;
+
+}
+.lqo p {
+    color: #fff;
+    background-color: #23262d;
+    border-radius: 60px;
+    border: #f6d601 solid 5px;
+    padding: 20px 27px;
+    display: inline-block;
+    font-size: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.lqo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lao p{
+    text-align: center;
+    font-size: 16px;
+}
+.llo p{
+    color: #fff;
+    background-color: #23262d;
+    border-radius: 60px;
+    border: #f6d601 solid 5px;
+    padding: 20px 27px;
+    display: inline-block;
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+.llo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.lro p{
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 100px;
+}
+.lalo select {
+    width: 30%;
+    height: 60px;
+    color: rgb(184, 180, 180);
+    margin-bottom: 25px;
+}
+.lalo {
+    width: 100%;
+}
+::placeholder {
+    color: gray;
+    font-size: 18px;
+}
+.pol  {
+    width: 15%;
+    padding-top: 10%;
+    margin-left: 42%;
+}
+.qaz {
+    width: 15%;
+    padding-top: 5%;
+    margin-left: 42%;
+}
+.ment {
+    width: 15%;
+    padding-top: 10%;
+    margin-left: 42%;
+}
+.qaz h5 {
+    padding-top: 140px;
+}
+.rec p{
+    color: #0c0c0e;
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+}
+.rac p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #e0f000;
+    font-size: 50px;
+    line-height: 60px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.deffo {
+    font-size: 18px;
+    font-family: 'Righteous', cursive;
+}
+.roc p {
+    color: #414141;
+    font-size: 40px;
+    line-height: 50px;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer {
+    background-color: #23262d;
+    padding: 20px 0px;
+    color: white;
+}
+footer p {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 18px;
+    line-height: 22px;
+}
+.naruto p {
+    display: none;
+    flex-direction: column;
+}
+.right a :hover {
+    color: white;
+}
+.rento p{
+    color: rgb(0, 0, 0);
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+.rento {
+    background-color: white;
+    height: 600px;
+    width: 35%;
+}
+.resto select{
+    position: relative;
+    width: 100%;
+    min-height: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+.resto select{
+    width: 80%;
+    height: 55px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-size: 18px;
+    color: gray;
+    border: 2px solid;
+    display: flex;
+    justify-content: center;
+
+}
+.rento select{
+    margin-left: 10%;
+}
+.rento input {
+    width: 80%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 10%;
+    border: 2px solid gray;
+}
+.rento::placeholder {
+    padding-left: 20px !important;
+}
+.rento {
+    margin-left: 50%;
+}
+.rento button {
+    background-color: black;
+    border: black 1px solid;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
+    color: white;
+    display: block;
+    width: 100%;
+    max-width: 200px;
+    margin: 0 auto;
+}
+.lord {
+    color: rgb(0, 0, 0);
+}
+.search {
+    width: 15%;
+    margin-left: 45%;
+}
+.search :hover {
+    transform: scale(1.1);
+    transition: 1s;
+}
+.lorem {
+    padding-left: 25px;
+}
+.select p{
+    text-align: center;
+    font-size: 17px;
+    color: grey;
+    transform: skew(0deg);
+}
+.select h6 {
+    text-align: center;
+    padding-top: 30px;
+    transform: skew(0deg);
+}
+.select h5 {
+    color: #f6d601;
+    text-align: center;
+    transform: skew(0deg);
+}
+.select {
+    margin-left: 15%;
+    background-color: white !important;
+    height: 290px;
+    width: 950px;
+    transform: skew(-20deg);
+
+}
+
+.sensey {
+    background-color: #23262d;
+    height: 800px;
+}
+.sama p {
+    color: white;
+    font-size: 45px;
+    font-weight: bold;
+    text-transform: uppercase !important;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.butt {
+    text-align: center;
+    margin-top: 70px;
+    padding: 10px;
+}
+.butt button {
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: white;
+    border: white 1px solid;
+}
+.butt :hover {
+    background-color: yellow;
+    border: yellow 1px solid;
+    transition: 1s;
+    border-radius: 25px;
+}
+.big :hover {
+    background-color: yellow;
+    transition: 1s;
+    border-radius: 25px;
+    border: yellow 1px solid;
+}
+@media (max-width:575px) {
+    .apple .select{
+        width: 400px !important;
+        height: 440px;
+        border-radius: 0px;
+        transform: skew(0deg);
+        padding: 10px;
+        margin-left: 10%;
+    }
+    .lora p {
+        font-size: 34px;
+    }
+    .gang {
+        font-size: 28px;
+    }
+    .ces p {
+        font-size: 20px;
+    }
+    .pes {
+        text-align: center;
+        font-size: 15px;
+    }
+    .roc p {
+        font-size: 34px;
+        text-align: center;
+    }
+    .rac p {
+        font-size: 28px;
+    }
+    .sama p {
+        font-size: 28px;
+    }
+    .search img{        
+        width: 170px !important;
+        margin-left: -50px;
+    }
+    .rento {
+        width: 400px;
+        margin-left: 8%;
+    }
+} 
